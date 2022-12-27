@@ -109,17 +109,17 @@ author:
   bio              : "'모여서 각자 소프트웨어하자!'팀 블로그"
   location         : "Ajou University"
   email            :
-  links:
-    # - label: "권빛 github"
-    #   url: ""
-    # - label: "김규래 github"
-    #   url: ""
-    # - label: "박선준 github"
-    #   url: ""
-    # - label: "이재욱 github"
-    #   url: ""
-    # - label: "채희준 github"
-    #   url: ""
+  # links:
+  #   - label: "권빛 github"
+  #     url: "https://github.com/V2TAMIN"
+  #   - label: "김규래 github"
+  #     url: "https://github.com/9yuR"
+  #   - label: "박선준 github"
+  #     url: "https://github.com/sekame"
+  #   - label: "이재욱 github"
+  #     url: "https://github.com/woukl22"
+  #   - label: "채희준 github"
+  #     url: "https://github.com/Chae7un"
 
 # Site Footer
 footer:
